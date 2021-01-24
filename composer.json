@@ -1,0 +1,10 @@
+{
+    "name": "gk/fasting-app",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\Fast\\": "fasting-app/fast"
+        }
+    },
+    "require": {}
+}
